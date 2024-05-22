@@ -17,8 +17,6 @@ Horizon Explorers is a static website designed to provide information about vari
 
 3. JavaScript
 
-4. Bootstrap (for responsive design)
-
 
 ## Installation
 
