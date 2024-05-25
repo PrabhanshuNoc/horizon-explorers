@@ -11,9 +11,9 @@ Horizon Explorers is a static website designed to provide information about vari
 ## Technologies Used
 
 
-1. HTML5
+1. HTML
 
-2. CSS3
+2. CSS
 
 3. JavaScript
 
